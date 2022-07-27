@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @luisquispem
-- 👀 I’m interested in Machine Learning and Quantitative Economics and Finance.
+- 👀 I’m interested in Economics, Finance and Computer Science.
 - 🌱 I’m currently learning to code in Python, R and Julia.
 - 📫 How to reach me: email me luis.quispem@pucp.edu.pe
 - 🌐 There's my personal website: https://luisquispem.github.io/
