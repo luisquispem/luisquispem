@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @luisquispem
-- 👀 I’m interested in Economics, Finance and Computer Science.
-- 🌱 I’m currently learning to code in Python, R and Julia.
+- 👋 Hi, I'm @luisquispem
+- 👀 I'm interested in Economics, Finance and Computer Science.
+- 🌱 I'm currently enrolled in a Minor in Data Science for Public Administration.
 - 📫 How to reach me: email me luisquispem@gmail.com
 - 🌐 There's my personal website: https://luisquispem.github.io/
 
